@@ -1,1 +1,3 @@
-# Node.js-aplication-web
+# clone-tabnews
+
+Projeto pessoal - Partindo do zero
